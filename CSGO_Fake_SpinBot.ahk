@@ -2,7 +2,6 @@
 #NoEnv 
 SetBatchLines -1
 SetWinDelay -1
-SendMode Input 
 SetWorkingDir %A_ScriptDir%  
 #SingleInstance Force 
 
