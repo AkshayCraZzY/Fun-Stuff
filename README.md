@@ -1,2 +1,2 @@
 # Fun-Stuff
-Collection of scripts for having some FUN.
+Collection of scripts for FUN.
